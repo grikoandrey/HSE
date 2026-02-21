@@ -1,0 +1,6 @@
+botsv1.nessus-scan.json
+botsv1.stream-dns.json
+botsv1.suricata.json
+botsv1.WinEventLog-Security.json
+download.py
+script.py
